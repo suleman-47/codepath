@@ -1,2 +1,1 @@
-# codepath
-To Do list 
+i have one server IP 192.168.223.108 and an other server IP 59.103.236.102 now i have sone code on server IP 108 i have to commit code from 108 through github and i can make a update on same folder on server IP 59.103.236.102 . how can i do that and how to perform it step by step 
